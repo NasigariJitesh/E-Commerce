@@ -1,0 +1,30 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+.menu {
+  position: fixed;
+  z-index: 10;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  
+}
+.card1{
+  background-color: #fff;
+  position: fixed;
+  left: 0px; 
+  top: 5%; 
+  height: 100%;
+}
+footer{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
